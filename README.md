@@ -5,13 +5,10 @@
 
 Un pequeño juego similar a Coockie clicker con el tema de "Monkey Coder". En este juego se irá dando Click a un mono, que irá codeando las líneas respecto a la cantidad de clicks que se le de, también se podrá contar con mejoras como: 
 
-*Abstracción
-
-*Modularidad
-
-*Más monos
-
-*Sucursales de monos
+* Abstracción
+* Modularidad
+* Más monos
+* Sucursales de monos
 
 
 | Integrantes:                    | 

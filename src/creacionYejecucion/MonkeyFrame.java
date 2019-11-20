@@ -58,6 +58,11 @@ public class MonkeyFrame extends JFrame{
 		
 		class AbstraccionHandler implements ActionListener{
 			public void actionPerformed(ActionEvent event) {
+				try{
+					if(counter.getAbstraccionNumero()>98) {
+						throw new ExcepcionLimite("No puedes seguir mejorando esto.");
+					} else
+					
 				if(counter.getLinesContador() >= counter.getAbstraccionPrecio()) {
 					counter.setLinesContador(counter.getLinesContador() - counter.getAbstraccionPrecio());
 					counter.setAbstraccionPrecio(counter.getAbstraccionPrecio() + 5);
@@ -78,11 +83,20 @@ public class MonkeyFrame extends JFrame{
 						modularidad.setText("Módulos");
 					}
 				}
+				
+				} catch(ExcepcionLimite excep1) {
+					JOptionPane.showMessageDialog(null, "No puedes seguir mejorando esto.");
+				}
+				
 			}
 		}
 		
 		class ModularidadHandler implements ActionListener{
 			public void actionPerformed(ActionEvent event) {
+				try{
+					if(counter.getModularidadNumero()>98) {
+						throw new ExcepcionLimite("No puedes seguir mejorando esto.");
+					} else
 				if(counter.getLinesContador() >= counter.getModularidadPrecio()) {
 					counter.setLinesContador(counter.getLinesContador() - counter.getModularidadPrecio());
 					counter.setModularidadPrecio(counter.getModularidadPrecio() + 25);
@@ -103,12 +117,20 @@ public class MonkeyFrame extends JFrame{
 						counter.setMonoDesbloqueado(true);
 						mono.setText("Monos");
 					}
+				
+				}
+				} catch(ExcepcionLimite excep1) {
+					JOptionPane.showMessageDialog(null, "No puedes seguir mejorando esto.");
 				}
 			}
 		}
 		
 		class MonoHandler implements ActionListener{
 			public void actionPerformed(ActionEvent event) {
+				try{
+					if(counter.getMonoNumero()>98) {
+						throw new ExcepcionLimite("No puedes seguir mejorando esto.");
+					} else
 				if(counter.getLinesContador() >= counter.getMonoPrecio()) {
 					counter.setLinesContador(counter.getLinesContador() - counter.getMonoPrecio());
 					counter.setMonoPrecio(counter.getMonoPrecio() + 250);
@@ -130,12 +152,19 @@ public class MonkeyFrame extends JFrame{
 						sucursal.setText("Sucursal");
 					}
 				}
+				} catch(ExcepcionLimite excep1) {
+					JOptionPane.showMessageDialog(null, "No puedes seguir mejorando esto.");
+				}
 	
 			}
 		}
 		
 		class SucursalHandler implements ActionListener{
 			public void actionPerformed(ActionEvent event) {
+				try{
+					if(counter.getSucrusalNumero()>98) {
+						throw new ExcepcionLimite("No puedes seguir mejorando esto.");
+					} else
 				if(counter.getLinesContador() >= counter.getSucursalPrecio()) {
 					counter.setLinesContador(counter.getLinesContador() - counter.getSucursalPrecio());
 					counter.setSucursalPrecio(counter.getSucursalPrecio() + 2500);
@@ -149,6 +178,9 @@ public class MonkeyFrame extends JFrame{
 					actualizarCronometro(counter);
 				} else if(counter.getLinesContador() < counter.getSucursalPrecio()) {
 					descripciones.getTexto().setText("¡Necesitas codificar más líneas!");
+				}
+				} catch(ExcepcionLimite excep1) {
+					JOptionPane.showMessageDialog(null, "No puedes seguir mejorando esto.");
 				}
 				/*
 				if(counter.isUADYDesbloqueado() == false) {

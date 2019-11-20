@@ -20,7 +20,7 @@ public class CounterPanel extends JPanel{
 	
 	public CounterPanel(JLabel lineas, JLabel porSegundo) {
 		super();
-		this.lineasContador = 100000;
+		this.lineasContador = 0;
 		this.porSegundoLineas = 0;
 		this.lineas = lineas;
 		this.porSegundo = porSegundo;

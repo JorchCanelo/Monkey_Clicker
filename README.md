@@ -29,17 +29,17 @@ Un pequeño juego similar a Coockie clicker con el tema de "Monkey Coder". En es
 * 2.1 Metas y objetivos
     
 **3: Requerimientos**
-		3.1 Actores de sistema (Usuarios: Persona que usa el sistema, ¿qué pueden hacer dentro de la alplicación?)
-		3.2 Requerimientos de usuario
-		3.3 Requerimientos de sistema
-			3.3.1 Funcionales
-			3.3.2 No funcionales
-				3.3.2.1 Requerimientos de producto
-		3.4 Casos de uso
-			3.4.1 Diagramas
-		3.5 Product blacklog
-			3.5.1 Historias de usuario
-			//Opcional	3.5.2 Product backlog
+
+* 3.1 Actores de sistema (Usuarios: Persona que usa el sistema, ¿qué pueden hacer dentro de la alplicación?)
+* 3.2 Requerimientos de usuario
+* 3.3 Requerimientos de sistema
+	* 3.3.1 Funcionales
+	* 3.3.2 No funcionales
+	* 3.3.2.1 Requerimientos de producto
+* 3.4 Casos de uso
+	* 3.4.1 Diagramas
+* 3.5 Product blacklog
+	* 3.5.1 Historias de usuario
       
 **4: Proceso de Desarrollo**
 		4.1 Heramientas 

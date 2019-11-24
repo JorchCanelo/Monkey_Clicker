@@ -99,6 +99,9 @@ Entre los objetivos generales de Monkey Clicker podemos identificar los siguient
 * Hangouts
 ## 4.2 Métodos 
 ## 4.3 Procesos 
+## 4.4 Productos y artefactos
+# 5. Trabajo en equipo
+## 5.1 Comunicación 
 La comunicación durante el desarrollo del proyecto se dará en el espacio de trabajo de Hangouts, en el cual se discutirán diversos aspectos del mismo utilizando diversos canales, los cuales son los siguientes:
 
 1. Documentación 
@@ -113,14 +116,18 @@ En este canal se discutirá todo lo relacionado con la programación a lo largo 
 
 En este canal se reportarán los errores encontrados en el programa.
 
-## 4.4 Productos y artefactos
-## 4.5 [Repositorio](https://github.com/JorchCanelo/Monkey_Clicker)
-# 5. Trabajo en equipo
-## 5.1 Comunicación 
+## 5.2 [Repositorio](https://github.com/JorchCanelo/Monkey_Clicker)
 
 # 6. Construcción
 ## 6.1 Lenguaje de programación
+El lenguaje de programación a usar será Java
+
 ## 6.2 Estándar de codificación 
+Aqui van los patrones que usa Jorch para nombrar variables, constantes, funciones, etcétera.
+
 ## 6.1 Herramienta para la documentación
+StackEdit 
+
+La documentación lo haremos por medio de StackEdit, nos permite visualizar del lado derecho la documentación mientras vamos escribiendo líneas de código
 
 

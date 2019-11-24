@@ -60,6 +60,8 @@ Un pequeño juego similar a Coockie clicker con el tema de "Monkey Coder". En es
 
 # 1. Introducción 
 ## 1.1 Resumen 
+El Monkey Clicker es una adaptación del clásico juego de coockie clicker. Este juego fue creado para entretener al público de manera que con medio de mejoras, el usuario tenga la motivación de desbloquearlas todas y llevarlos al máximo 
+
 ## 1.2 Publico objetivo 
 
 # 2. Definición del proyecto

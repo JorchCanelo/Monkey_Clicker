@@ -84,6 +84,8 @@ Entre los objetivos generales de Monkey Clicker podemos identificar los siguient
 
 # 4. Proceso de Desarrollo
 ## 4.1 Herramientas 
+Para el planteamiento de los requerimeintos, diseño, construcción, documentación y comunicación, se enlistarán a continuación: 
+
 ### 4.1.1 Herramientas de Requerimientos 
 * Google Drive 
 * Word 

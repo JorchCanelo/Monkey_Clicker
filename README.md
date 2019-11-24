@@ -102,10 +102,13 @@ Entre los objetivos generales de Monkey Clicker podemos identificar los siguient
 La comunicación durante el desarrollo del proyecto se dará en el espacio de trabajo de Hangouts, en el cual se discutirán diversos aspectos del mismo utilizando diversos canales, los cuales son los siguientes:
 
 1. Documentación 
+
 En este canal se discutirá todo lo relaciona con la documentación del proyecto
 2. coding 
+
 En este canal se discutirá todo lo relacionado con la programación a lo largo del proyecto.
 3. testing 
+
 En este canal se reportarán los errores encontrados en el programa.
 
 ## 4.4 Productos y artefactos

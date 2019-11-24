@@ -131,5 +131,3 @@ Aqui van los patrones que usa Jorch para nombrar variables, constantes, funcione
 StackEdit 
 
 La documentación lo haremos por medio de StackEdit, nos permite visualizar del lado derecho la documentación mientras vamos escribiendo líneas de código
-
-

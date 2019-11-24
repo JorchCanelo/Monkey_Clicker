@@ -80,5 +80,19 @@ Un pequeño juego similar a Coockie clicker con el tema de "Monkey Coder". En es
 ## 3.5 Product blacklog
 ### 3.5.1 Historias de usuario
 
+# 4. Proceso de Desarrollo**
+
+## 4.1 Heramientas 
+## 4.2 Métodos 
+## 4.3 Procesos 
+## 4.4 Productos y artefactos
+    
+# 5. Trabajo en equipo**
+## 5.1 Comunicación 
+
+# 6. Construcción**
+## 6.1 Lenguaje de programación
+## 6.2 Estándar de codificación 
+## 6.1 Herramienta para la documentación
 
 

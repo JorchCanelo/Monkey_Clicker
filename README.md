@@ -103,10 +103,12 @@ La comunicación durante el desarrollo del proyecto se dará en el espacio de tr
 
 1. Documentación 
 
-En este canal se discutirá todo lo relaciona con la documentación del proyecto
+En este canal se discutirá todo lo relaciona con la documentación del proyecto.
+
 2. coding 
 
 En este canal se discutirá todo lo relacionado con la programación a lo largo del proyecto.
+
 3. testing 
 
 En este canal se reportarán los errores encontrados en el programa.

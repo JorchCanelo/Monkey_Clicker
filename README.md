@@ -114,7 +114,7 @@ En este canal se discutirá todo lo relacionado con la programación a lo largo 
 En este canal se reportarán los errores encontrados en el programa.
 
 ## 4.4 Productos y artefactos
-    
+## 4.5 [Repositorio](https://mermaidjs.github.io/)
 # 5. Trabajo en equipo
 ## 5.1 Comunicación 
 

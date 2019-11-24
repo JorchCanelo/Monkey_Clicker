@@ -11,8 +11,8 @@ Un pequeño juego similar a Coockie clicker con el tema de "Monkey Coder". En es
 * Sucursales de monos
 
 
-## Miembros del equipo:
+## Miembros del equipo
 
-*Chí León Jorge Alberto 
-*González Bautista Noé Alejandro
-*López Madera Fernanda Jacqueline 
+* Chí León Jorge Alberto 
+* González Bautista Noé Alejandro
+* López Madera Fernanda Jacqueline 

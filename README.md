@@ -21,8 +21,8 @@ Un pequeño juego similar a Coockie clicker con el tema de "Monkey Coder". En es
 
 **1. Introducción**
 
-* 1.1 Resumen (Explicación breve del proyecto)
-* 1.2 Publico objetivo (A quien va dirigido)
+* 1.1 Resumen 
+* 1.2 Publico objetivo 
     
 **2: Definición del proyecto**
 
@@ -30,7 +30,7 @@ Un pequeño juego similar a Coockie clicker con el tema de "Monkey Coder". En es
     
 **3: Requerimientos**
 
-* 3.1 Actores de sistema (Usuarios: Persona que usa el sistema, ¿qué pueden hacer dentro de la alplicación?)
+* 3.1 Actores de sistema 
 * 3.2 Requerimientos de usuario
 * 3.3 Requerimientos de sistema
 	* 3.3.1 Funcionales
@@ -50,10 +50,10 @@ Un pequeño juego similar a Coockie clicker con el tema de "Monkey Coder". En es
     
 **5: Trabajo en equipo**
 
-* 5.1 Comunicación //LEER 
+* 5.1 Comunicación 
 
 **6: Construcción**
 
-* 6.1 Lenguaje de programación //Explicación
-* 6.2 Estándar de codificación //LEER
-* 6.1 Herramienta para la documentación //LEER 
+* 6.1 Lenguaje de programación
+* 6.2 Estándar de codificación 
+* 6.1 Herramienta para la documentación

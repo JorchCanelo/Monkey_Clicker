@@ -1,4 +1,4 @@
-# Monkey_Clicker
+# Monkey Clicker
 ![alt text](https://github.com/JorchCanelo/Monkey_Clicker/blob/master/Monkey_Clicker/src/recursos/monkeyCoder.jpg "Logo Title Text 1")
 
 ## Descripción
@@ -11,8 +11,8 @@ Un pequeño juego similar a Coockie clicker con el tema de "Monkey Coder". En es
 * Sucursales de monos
 
 
-| Integrantes:                    | 
-| -------------                   |
-| Chí León Jorge Alberto          |
-| González Bautista Noé Alejandro | 
-| López Madera Fernanda           | 
+## Miembros del equipo:
+
+*Chí León Jorge Alberto 
+*González Bautista Noé Alejandro
+*López Madera Fernanda Jacqueline 

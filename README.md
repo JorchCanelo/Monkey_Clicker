@@ -61,10 +61,14 @@ Un pequeño juego similar a Coockie clicker con el tema de "Monkey Coder". En es
 # 1. Introducción 
 ## 1.1 Resumen 
 El Monkey Clicker es una adaptación del clásico juego de coockie clicker. Este juego fue creado para entretener al público de manera que con medio de mejoras, el usuario tenga la motivación de desbloquearlas todas y llevarlos al máximo 
-
 ## 1.2 Publico objetivo 
-
+El juego va dirigido para todo tipo de persona, entre la edad de 7 años en adelante
 # 2. Definición del proyecto
+El objetivo principal de Monkey Clicker es entretener al usario a mejorar más los atributos del mono
+
+Entre los objetivos generales de Monkey Clicker podemos identificar los siguientes: 
+
+1. NH
 ## 2.1 Metas y objetivos
 
 # 3. Requerimientos

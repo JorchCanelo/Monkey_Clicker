@@ -21,12 +21,12 @@ Un pequeño juego similar a Coockie clicker con el tema de "Monkey Coder". En es
 
 **1. Introducción**
 
-  1.1 Resumen (Explicación breve del proyecto)
-
-  1.2 Publico objetivo (A quien va dirigido)
+* 1.1 Resumen (Explicación breve del proyecto)
+* 1.2 Publico objetivo (A quien va dirigido)
     
 **2: Definición del proyecto**
-		2.1 Metas y objetivos (Objetivo principal[¿Qué hace?] y general[Permite, proporciona, contribuye, ¿qué?])
+
+* 2.1 Metas y objetivos
     
 **3: Requerimientos**
 		3.1 Actores de sistema (Usuarios: Persona que usa el sistema, ¿qué pueden hacer dentro de la alplicación?)

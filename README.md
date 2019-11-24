@@ -64,13 +64,12 @@ El Monkey Clicker es una adaptación del clásico juego de coockie clicker. Este
 ## 1.2 Publico objetivo 
 El juego va dirigido para todo tipo de persona, entre la edad de 7 años en adelante
 # 2. Definición del proyecto
+## 2.1 Metas y objetivos
 El objetivo principal de Monkey Clicker es entretener al usario a mejorar más los atributos del mono
 
 Entre los objetivos generales de Monkey Clicker podemos identificar los siguientes: 
 
 1. NH
-## 2.1 Metas y objetivos
-
 # 3. Requerimientos
 ## 3.1 Actores de sistema
 ## 3.2 Requerimientos de usuario
@@ -84,7 +83,20 @@ Entre los objetivos generales de Monkey Clicker podemos identificar los siguient
 ### 3.5.1 Historias de usuario
 
 # 4. Proceso de Desarrollo
-## 4.1 Heramientas 
+## 4.1 Herramientas 
+### 4.1.1 Herramientas de Requerimientos 
+* Google Drive 
+* Word 
+### 4.1.2 Herramientas de Diseño 
+* StarUML
+### 4.1.3 Herramientas de Construcción 
+* GitHub 
+* NetBeans 
+* Eclipse-Java
+### 4.1.4 Herramientas para Documentación 
+* StackEdit 
+### 4.1.5 Herramientas para la comunicación 
+* Hangouts
 ## 4.2 Métodos 
 ## 4.3 Procesos 
 ## 4.4 Productos y artefactos

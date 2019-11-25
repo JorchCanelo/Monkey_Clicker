@@ -69,7 +69,10 @@ El objetivo principal de Monkey Clicker es entretener al usario a mejorar más l
 
 Entre los objetivos generales de Monkey Clicker podemos identificar los siguientes: 
 
-1. NH
+1. Proveer al usuario un espacio recreacional con una dinámica de juego sencilla pero entretenida.
+
+2. Brindar al usuario la oportunidad de adquirir habilidades y objetos que le permitan mejorar su rendimiento en el juego.
+
 # 3. Requerimientos
 ## 3.1 Actores de sistema
 ## 3.2 Requerimientos de usuario

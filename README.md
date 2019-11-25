@@ -94,9 +94,13 @@ Jugador: persona que utiliza el sistema.
 Al abrir el juego, el sistema deberá iniciar en la página principal, misma que mostrará los botones en los cuales se hará click para adquirir las mejoras
 
 ### 3.3.2 No funcionales
-### 3.3.2.1 Requerimientos de producto
+* RNF001: Resolución de imagen
+
+La imagen debe ser una solución mínima de 50x50 pixeles para encajar adecuadamente 
+
 ## 3.4 Casos de uso
 ### 3.4.1 Diagrama
+
 
 # 4. Proceso de Desarrollo
 ## 4.1 Herramientas 

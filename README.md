@@ -101,6 +101,7 @@ La imagen debe ser una solución mínima de 50x50 pixeles para encajar adecuadam
 ## 3.4 Casos de uso
 ### 3.4.1 Diagrama
 
+![alt text](https://github.com/JorchCanelo/Monkey_Clicker/blob/master/src/recursos/WhatsApp%20Image%202019-11-24%20at%205.40.38%20PM.jpeg "Logo Title Text 1")
 
 # 4. Proceso de Desarrollo
 ## 4.1 Herramientas 

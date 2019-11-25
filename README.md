@@ -96,9 +96,7 @@ Al abrir el juego, el sistema deberá iniciar en la página principal, misma que
 ### 3.3.2 No funcionales
 ### 3.3.2.1 Requerimientos de producto
 ## 3.4 Casos de uso
-### 3.4.1 Diagramas
-## 3.5 Product blacklog
-### 3.5.1 Historias de usuario
+### 3.4.1 Diagrama
 
 # 4. Proceso de Desarrollo
 ## 4.1 Herramientas 

@@ -165,7 +165,20 @@ monos = entero;
 }
 
 
-## 6.1 Herramienta para la documentación
+## 6.3 Herramienta para la documentación
 StackEdit 
 
 La documentación lo haremos por medio de StackEdit, nos permite visualizar del lado derecho la documentación mientras vamos escribiendo líneas de código
+
+## 6.4 Uso de los temas
+Herencia
+
+La herencia se utiliza durante la creación de los objetos gráficos de Swing ya que se crearon objetois perzonalizados extendiendo a los base como son botones, paneles, etc.
+
+Polimorfismo
+
+Durante el uso de botones cada uno tiene difrentes funciones pero usa el mismo handler que detecta cual botón es.
+
+Interfaces
+
+Al igual que el anterior el uso de los handlers implica el uso de sus interfaces, por lo cual se usan los métodos de los handlers de Java.

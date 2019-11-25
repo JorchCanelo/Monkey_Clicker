@@ -75,9 +75,24 @@ Entre los objetivos generales de Monkey Clicker podemos identificar los siguient
 
 # 3. Requerimientos
 ## 3.1 Actores de sistema
+
+Jugador: persona que utiliza el sistema.
+
+* Puede dar click en los botones para producir nuevas líneas de código.
+* Puede adquirir mejoras que incrementen la generación de líneas de código.
 ## 3.2 Requerimientos de usuario
+1. El jugador podrá dar click repetidas veces en los botones para ir generando líneas de código.
+
+2. El jugador podrá intercambiar las líneas de código que ha producido por nuevas mejoras que incrementarán gradualmente la cantidad de líneas que se crean cada segundo a partir de la primera mejora. Dicho incremento corresponderá al nivel en que se encuentren las habilidades y objetos.
+
+3. El jugador podrá visualizar la cantidad de líneas de código que ha generado, así como la cantidad de líneas que se producen automáticamente en caso de existir mejoras adquiridas.
+
 ## 3.3 Requerimientos de sistema
 ### 3.3.1 Funcionales
+* RF001: Página principal: prioridad alta
+
+Al abrir el juego, el sistema deberá iniciar en la página principal, misma que mostrará los botones en los cuales se hará click para adquirir las mejoras
+
 ### 3.3.2 No funcionales
 ### 3.3.2.1 Requerimientos de producto
 ## 3.4 Casos de uso

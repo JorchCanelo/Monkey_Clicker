@@ -111,7 +111,7 @@ Para el planteamiento de los requerimeintos, diseño, construcción, documentaci
 * Google Drive 
 * Word 
 ### 4.1.2 Herramientas de Diseño 
-* StarUML
+* Lucidchart 
 ### 4.1.3 Herramientas de Construcción 
 * GitHub 
 * NetBeans 

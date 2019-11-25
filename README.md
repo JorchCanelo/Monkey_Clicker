@@ -103,7 +103,7 @@ La imagen debe ser una solución mínima de 50x50 pixeles para encajar adecuadam
 
 # 4. Proceso de Desarrollo
 ## 4.1 Herramientas 
-Para el planteamiento de los requerimeintos, diseño, construcción, documentación y comunicación, se enlistarán a continuación: 
+Para el planteamiento de los requerimientos, diseño, construcción, documentación y comunicación, se enlistarán a continuación: 
 
 ### 4.1.1 Herramientas de Requerimientos 
 * Google Drive 
@@ -183,3 +183,7 @@ Durante el uso de botones cada uno tiene difrentes funciones pero usa el mismo h
 Interfaces
 
 Al igual que el anterior el uso de los handlers implica el uso de sus interfaces, por lo cual se usan los métodos de los handlers de Java.
+
+Excepciones
+
+Cuando el jugador quiere mejorar una habilidad del mono a más de nivel 99 el juego envía un mensaje que le evita mejorarlo.

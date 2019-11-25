@@ -125,7 +125,30 @@ En este canal se reportarán los errores encontrados en el programa.
 El lenguaje de programación a usar será Java
 
 ## 6.2 Estándar de codificación 
-Aqui van los patrones que usa Jorch para nombrar variables, constantes, funciones, etcétera.
+**Clases e interfaces:** El nombre es generalmente un sustantivo que empieza con mayúscula. Si tiene varias palabras, estas van pegadas y la primera letra es mayúscula.
+
+Ejemplo: MonkeyPanel, Errors.
+
+**Métodos y variables:** Generalmente son verbos. Empiezan con minúscula y siguen las otras reglas que las clases e interfaces. Las variables son privadas y solo accesibles con sus getters y setters.
+
+Ejemplo: getMonkey(), imprimirTexto(), contador, banderaSecundaria.
+
+**Métodos getter**: Son públicos con el prefijo “get” y no requieren de entradas.
+
+Ejemplo: getMonos(){
+
+return monos;
+
+}
+
+**Métodos setter**: Son públicos con el prefijo “set” y requieren de alguna entrada además de no retornar nada.
+
+Ejemplo: setMonos(int entero){
+
+monos = entero;
+
+}
+
 
 ## 6.1 Herramienta para la documentación
 StackEdit 

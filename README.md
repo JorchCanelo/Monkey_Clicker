@@ -44,9 +44,6 @@ Un pequeño juego similar a Coockie clicker con el tema de "Monkey Coder". En es
 **4. Proceso de Desarrollo**
 
 * 4.1 Heramientas 
-* 4.2 Métodos 
-* 4.3 Procesos 
-* 4.4 Productos y artefactos
     
 **5. Trabajo en equipo**
 
@@ -120,9 +117,6 @@ Para el planteamiento de los requerimeintos, diseño, construcción, documentaci
 * StackEdit 
 ### 4.1.5 Herramientas para la comunicación 
 * Hangouts
-## 4.2 Métodos 
-## 4.3 Procesos 
-## 4.4 Productos y artefactos
 # 5. Trabajo en equipo
 ## 5.1 Comunicación 
 La comunicación durante el desarrollo del proyecto se dará en el espacio de trabajo de Hangouts, en el cual se discutirán diversos aspectos del mismo utilizando diversos canales, los cuales son los siguientes:

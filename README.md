@@ -53,7 +53,8 @@ Un pequeño juego similar a Coockie clicker con el tema de "Monkey Coder". En es
 
 * 6.1 Lenguaje de programación
 * 6.2 Estándar de codificación 
-* 6.1 Herramienta para la documentación
+* 6.3 Herramienta para la documentación
+* 6.4 Uso de los temas
 
 # 1. Introducción 
 ## 1.1 Resumen 
